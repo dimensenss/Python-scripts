@@ -1,0 +1,8 @@
+D:\PROGRAMMING\Scripts & Bots\C# Professional\TPL\Parelel foreach\bin\Release\Parelel foreach.exe.config
+D:\PROGRAMMING\Scripts & Bots\C# Professional\TPL\Parelel foreach\bin\Release\Parelel foreach.exe
+D:\PROGRAMMING\Scripts & Bots\C# Professional\TPL\Parelel foreach\bin\Release\Parelel foreach.pdb
+D:\PROGRAMMING\Scripts & Bots\C# Professional\TPL\Parelel foreach\obj\Release\Parelel foreach.csproj.AssemblyReference.cache
+D:\PROGRAMMING\Scripts & Bots\C# Professional\TPL\Parelel foreach\obj\Release\Parelel foreach.csproj.SuggestedBindingRedirects.cache
+D:\PROGRAMMING\Scripts & Bots\C# Professional\TPL\Parelel foreach\obj\Release\Parelel foreach.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\Scripts & Bots\C# Professional\TPL\Parelel foreach\obj\Release\Parelel foreach.exe
+D:\PROGRAMMING\Scripts & Bots\C# Professional\TPL\Parelel foreach\obj\Release\Parelel foreach.pdb

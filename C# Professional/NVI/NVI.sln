@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NVI", "NVI\NVI.csproj", "{C24A879A-93A0-48F2-A1C3-F4DFD3B334D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C24A879A-93A0-48F2-A1C3-F4DFD3B334D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C24A879A-93A0-48F2-A1C3-F4DFD3B334D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C24A879A-93A0-48F2-A1C3-F4DFD3B334D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C24A879A-93A0-48F2-A1C3-F4DFD3B334D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {075FABA4-E93E-4C68-BF21-E2404E6BA0DF}
+	EndGlobalSection
+EndGlobal

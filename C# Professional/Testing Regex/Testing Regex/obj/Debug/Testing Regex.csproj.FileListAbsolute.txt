@@ -1,0 +1,8 @@
+D:\PROGRAMMING\Scripts & Bots\C# Professional\Testing Regex\Testing Regex\bin\Debug\Testing Regex.exe.config
+D:\PROGRAMMING\Scripts & Bots\C# Professional\Testing Regex\Testing Regex\bin\Debug\Testing Regex.exe
+D:\PROGRAMMING\Scripts & Bots\C# Professional\Testing Regex\Testing Regex\bin\Debug\Testing Regex.pdb
+D:\PROGRAMMING\Scripts & Bots\C# Professional\Testing Regex\Testing Regex\obj\Debug\Testing Regex.csproj.AssemblyReference.cache
+D:\PROGRAMMING\Scripts & Bots\C# Professional\Testing Regex\Testing Regex\obj\Debug\Testing Regex.csproj.SuggestedBindingRedirects.cache
+D:\PROGRAMMING\Scripts & Bots\C# Professional\Testing Regex\Testing Regex\obj\Debug\Testing Regex.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\Scripts & Bots\C# Professional\Testing Regex\Testing Regex\obj\Debug\Testing Regex.exe
+D:\PROGRAMMING\Scripts & Bots\C# Professional\Testing Regex\Testing Regex\obj\Debug\Testing Regex.pdb

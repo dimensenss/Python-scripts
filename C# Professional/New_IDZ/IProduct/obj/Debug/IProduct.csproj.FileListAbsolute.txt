@@ -1,0 +1,7 @@
+D:\PROGRAMMING\Scripts & Bots\C# Professional\New_IDZ\IProduct\obj\Debug\IProduct.csproj.AssemblyReference.cache
+D:\PROGRAMMING\Scripts & Bots\C# Professional\New_IDZ\IProduct\obj\Debug\IProduct.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\Scripts & Bots\C# Professional\New_IDZ\IProduct\bin\Debug\IProduct.dll.config
+D:\PROGRAMMING\Scripts & Bots\C# Professional\New_IDZ\IProduct\bin\Debug\IProduct.dll
+D:\PROGRAMMING\Scripts & Bots\C# Professional\New_IDZ\IProduct\bin\Debug\IProduct.pdb
+D:\PROGRAMMING\Scripts & Bots\C# Professional\New_IDZ\IProduct\obj\Debug\IProduct.dll
+D:\PROGRAMMING\Scripts & Bots\C# Professional\New_IDZ\IProduct\obj\Debug\IProduct.pdb

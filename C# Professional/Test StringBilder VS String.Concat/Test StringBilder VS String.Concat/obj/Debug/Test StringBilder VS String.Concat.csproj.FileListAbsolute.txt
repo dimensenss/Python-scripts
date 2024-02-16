@@ -1,0 +1,8 @@
+D:\PROGRAMMING\Scripts & Bots\C# Professional\Test StringBilder VS String.Concat\Test StringBilder VS String.Concat\bin\Debug\Test StringBilder VS String.Concat.exe.config
+D:\PROGRAMMING\Scripts & Bots\C# Professional\Test StringBilder VS String.Concat\Test StringBilder VS String.Concat\bin\Debug\Test StringBilder VS String.Concat.exe
+D:\PROGRAMMING\Scripts & Bots\C# Professional\Test StringBilder VS String.Concat\Test StringBilder VS String.Concat\bin\Debug\Test StringBilder VS String.Concat.pdb
+D:\PROGRAMMING\Scripts & Bots\C# Professional\Test StringBilder VS String.Concat\Test StringBilder VS String.Concat\obj\Debug\Test StringBilder VS String.Concat.csproj.AssemblyReference.cache
+D:\PROGRAMMING\Scripts & Bots\C# Professional\Test StringBilder VS String.Concat\Test StringBilder VS String.Concat\obj\Debug\Test StringBilder VS String.Concat.csproj.SuggestedBindingRedirects.cache
+D:\PROGRAMMING\Scripts & Bots\C# Professional\Test StringBilder VS String.Concat\Test StringBilder VS String.Concat\obj\Debug\Test StringBilder VS String.Concat.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\Scripts & Bots\C# Professional\Test StringBilder VS String.Concat\Test StringBilder VS String.Concat\obj\Debug\Test StringBilder VS String.Concat.exe
+D:\PROGRAMMING\Scripts & Bots\C# Professional\Test StringBilder VS String.Concat\Test StringBilder VS String.Concat\obj\Debug\Test StringBilder VS String.Concat.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPL", "TPL\TPL.csproj", "{35E36EC9-3D01-48EF-B65B-7825BA8B78FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parelel foreach", "Parelel foreach\Parelel foreach.csproj", "{0A1A441E-FC15-45BB-83C1-8C2CD8C0AF22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35E36EC9-3D01-48EF-B65B-7825BA8B78FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35E36EC9-3D01-48EF-B65B-7825BA8B78FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35E36EC9-3D01-48EF-B65B-7825BA8B78FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35E36EC9-3D01-48EF-B65B-7825BA8B78FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A1A441E-FC15-45BB-83C1-8C2CD8C0AF22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A1A441E-FC15-45BB-83C1-8C2CD8C0AF22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A1A441E-FC15-45BB-83C1-8C2CD8C0AF22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A1A441E-FC15-45BB-83C1-8C2CD8C0AF22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0106646-7B8B-49D1-99E5-74CAFE0C320F}
+	EndGlobalSection
+EndGlobal
